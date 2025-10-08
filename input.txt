@@ -1,0 +1,16 @@
+3
+20
+10
+10 50
+5 20
+8 30
+
+
+
+
+3     → number of items
+20    → capacity of the knapsack
+10    → sell price per unit weight
+10 50 → item 1: weight, cost
+5  20 → item 2: weight, cost
+8  30 → item 3: weight, cost
